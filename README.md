@@ -19,3 +19,8 @@ Darknet is an deeplearning tools written in C and CUDA. It is fast and easy, but
 
 ## Attention
 This tool only support YOLO v2, YOLO v3.
+
+
+## Reference
+[keras-yolo](https://github.com/BrainsGarden/keras-yolo)
+darkflow
