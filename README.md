@@ -18,7 +18,7 @@ Darknet is an deeplearning tools written in C and CUDA. It is fast and easy, but
 - keras
 - tensorflow (backend)
 - cv2 (read img, draw bbox)
-- matpltlib (show img, you can switch to cv2)
+- matplotlib (show img, you can switch to cv2)
 
 ## Usage
 `detection_example.py` is a simple example. just swith the cfg, weights file and set suitable head, you can get different model.
