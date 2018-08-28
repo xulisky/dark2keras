@@ -23,7 +23,7 @@ Darknet is an deeplearning tools written in C and CUDA. It is fast and easy, but
 ## Usage
 `detection_example.py` is a simple example. just swith the cfg, weights file and set suitable head, you can get different model.
 
-## Attention
+## Note
 This tool only support YOLO v2, YOLO v3.
 
 
