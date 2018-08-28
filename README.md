@@ -14,6 +14,12 @@ See the [project webpage](https://pjreddie.com/darknet/yolo/) for more details.
 
 Darknet is an deeplearning tools written in C and CUDA. It is fast and easy, but it is so hard to custom a layer or loss function in it.
 
+## Requirements
+- keras
+- tensorflow (backend)
+- cv2 (read img, draw bbox)
+- matpltlib (show img, you can switch to cv2)
+
 ## Usage
 `detection_example.py` is a simple example. just swith the cfg, weights file and set suitable head, you can get different model.
 
